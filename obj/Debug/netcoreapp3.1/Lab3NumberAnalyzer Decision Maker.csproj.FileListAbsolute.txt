@@ -1,0 +1,14 @@
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.exe
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.deps.json
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.runtimeconfig.json
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.runtimeconfig.dev.json
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\bin\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.AssemblyInfo.cs
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.dll
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.pdb
+A:\Microsoft Visual Studio\SOURCE\repository\Lab3NumberAnalyzer Decision Maker\obj\Debug\netcoreapp3.1\Lab3NumberAnalyzer Decision Maker.genruntimeconfig.cache
